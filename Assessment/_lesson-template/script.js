@@ -229,7 +229,7 @@ function compose(funcA, funcB) {
 }
 
 function multiplyTwo(x) {
-    return x * 2;
+return x * 2;
 }
 
 function addOne(x) {
